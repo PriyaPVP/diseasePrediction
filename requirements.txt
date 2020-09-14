@@ -19,6 +19,7 @@ entrypoints==0.3
 Flask==1.1.1
 Flask-RESTful==0.3.8
 gensim==3.5.0
+gunicorn==19.9.0
 idna==2.7
 ipykernel==5.1.0
 ipython==7.3.0
